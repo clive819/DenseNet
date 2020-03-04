@@ -7,4 +7,4 @@ class DenseNetConfig(object):
     growthRate = 32
 
     # number of conv blocks
-    numBlocks = [4, 4, 4, 4]
+    numBlocks = [6, 12, 24, 16]

@@ -1,4 +1,6 @@
 # DenseNet Backbone
+
+This is a PyTorch implementation of Densely Connected Convolutional Networks (DenseNet) exclude the fully connected layers. 
  
 # Citations
 
